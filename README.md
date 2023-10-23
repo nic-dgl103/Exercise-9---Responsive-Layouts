@@ -58,9 +58,9 @@ By designing for the small screen first we're using what is known as a mobile-fi
 
 }
 ```
-3. Add, in the media query, all the HTML and CSS necessary to adap the layout so that it looks like the desktop version of your chosen content blocks. Note: In the wireframes, the desktop layotus are 1440px wide so that you can see the negative space on either side of the content.
+3. Add, in the media query, all the CSS necessary to adapt the layout so that it looks like the desktop version of your chosen content blocks. In the wireframes, the desktop layouts are 1440px wide so that you can see the negative space on either side of the content.
 
-Note: For a professional webiste I would also check what the layout looks like in between the breakpoints. You do not need to do this for the exercise.
+Note: For a professional website I would also check what the layout looks like in between the breakpoints. You do not need to do this for the exercise.
   1. In the browser window, select Responsive from the Dimensions drop down menu.
   2. Drag to expand your viewport width and watch how your layout behaves at all sizes.
   3. If anything in the layout looks awkward, I would record the viewport width and add a new media query using the width of the viewport as the min-width.
