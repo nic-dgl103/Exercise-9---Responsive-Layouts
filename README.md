@@ -26,7 +26,11 @@ There are two layouts for each of the seven provided content blocks. You must ch
 
 ### 3. Code the content blocks for mobile
 1. In VS Code, create two new files called index.html and style.css. Link your external stylesheet to your HTML file. 
-2. Code each one of your chosen content blocks for mobile. Mobile layouts usually follow the normal flow of content so you shouldn't need flexbox for anything but the header. Your HTML should be clean and semantic. Tip: Use padding and margin to control the vertical space in the layout. Make sure that your CSS is well organised or step 4 will be more complicated.
+2. Code each one of your chosen content blocks for mobile. Mobile layouts usually follow the normal flow of content so you may not need flexbox for anything but the header. 
+    * Your HTML should be clean and semantic. 
+    * The hamburger menu must work, you can use thw Responsive Nav and Layout codepen as inspiration: https://codepen.io/AskClaireGuiot/pen/eYErXvr. 
+    * Use padding and margin to control the vertical space in the layout. 
+    * Make sure that your CSS is well organised or step 4 will be more complicated.
 
 To simulate what you web page might look like on a mobile device: 
   1. With the webpage open in Chrome, right-click > Inspect. 
