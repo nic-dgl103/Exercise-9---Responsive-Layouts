@@ -47,7 +47,7 @@ By designing for the small screen first we're using what is known as a mobile-fi
 
 }
 ```
-3. Add, in the media query, all the CSS needed to adapt the layout so that it looks like the tablet version of your chosen content blocks. You may need to add some container elements to the HTML to control the relationships between your different HTML elements.
+3. Add, in the media query, all the CSS needed to adapt the layout so that it looks like the tablet version of your chosen content blocks. You may need to add some container elements to the HTML to control the relationships between your flex containers and flex items.
 
 ### 5. Adapt the layout for desktop screens
 1. In the browser window, select Responsive from the Dimensions drop down menu. Enter 1200px in the viewport width field and press enter. Note: If the computer that you are working on has a small screen and you can't see the whole viewport window then you may need to work on a lab computer.
