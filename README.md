@@ -26,16 +26,15 @@ There are two layouts for each of the seven provided content blocks. You must ch
 
 ### 3. Code the content blocks for mobile
 1. In VS Code, create two new files called index.html and style.css. Link your external stylesheet to your HTML file. 
-2. Code each one of your chosen content blocks for mobile. Mobile layouts usually follow the normal flow of content so you may not need flexbox for anything but the header. 
+2. Code each one of your chosen content blocks for mobile. 
     * Your HTML should be clean and semantic. 
+    * Mobile layouts usually follow the normal flow of content so you may not need flexbox for anything but the header. Use padding and margin to control the vertical space in the layout. 
     * The hamburger menu must work, you can use thw Responsive Nav and Layout codepen as inspiration: https://codepen.io/AskClaireGuiot/pen/eYErXvr. 
-    * Use padding and margin to control the vertical space in the layout. 
-    * Make sure that your CSS is well organised or step 4 will be more complicated.
-
-To simulate what you web page might look like on a mobile device: 
-  1. With the webpage open in Chrome, right-click > Inspect. 
-  2. In the DevTools window, click on the Toggle Device button (in top left-hand corner).
-  3. In the browser window, select iPhone SE (375px wide) from the Dimensions drop down menu.
+    * Make sure that your mobiel HTML and CSS are perfectly finished and your CSS is well organised before you move on to step 4 or your code will become a mess.
+    * To simulate what your web page might look like on a mobile device: 
+      1. With the webpage open in Chrome, right-click > Inspect. 
+      2. In the DevTools window, click on the Toggle Device button (in top left-hand corner).
+      3. In the browser window, select iPhone SE (375px wide) from the Dimensions drop down menu.
 
 By designing for the small screen first we're using what is known as a mobile-first approach. By doing this, we create a basic design that will fit small screens and low bandwidth, and then we add advanced features or layouts as the screen grows and users switch from cell data to wi-fi. This ensures that we're designing an experience that will work for everyone. 
 
