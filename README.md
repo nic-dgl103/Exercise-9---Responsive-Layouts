@@ -14,7 +14,7 @@ Remember to:
 <!-- DGL 103 CVS1 - your name - Responsive Layouts -->
 ```
 ### 2. Choose your content block layouts
-You can choose your content blocks by visiting this site: https://xd.adobe.com/view/a971d502-33a5-46ea-81be-1fd2c5b2076b-fc22/
+You can choose your content blocks by visiting this site: https://xd.adobe.com/view/a971d502-33a5-46ea-81be-1fd2c5b2076b-fc22/flow
 There are two layouts for each of the seven provided content blocks. You must choose one layout from each content block and use the provided high fidelity wireframes as a guide to code the HTML and CSS for a webpage that has the following content structure:
 1. Header
 2. Hero
