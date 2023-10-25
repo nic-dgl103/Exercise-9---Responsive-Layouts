@@ -29,7 +29,7 @@ There are two layouts for each of the seven provided content blocks. You must ch
 2. Code each one of your chosen content blocks for mobile. 
     * Your HTML should be clean and semantic. 
     * Mobile layouts usually follow the normal flow of content so you may not need flexbox for anything but the header. Use padding and margin to control the vertical space in the layout. 
-    * The hamburger menu must work, you can use thw Responsive Nav and Layout codepen as inspiration: https://codepen.io/AskClaireGuiot/pen/eYErXvr. 
+    * The hamburger menu must work, you can use thw Responsive Nav codepen as inspiration: https://codepen.io/AskClaireGuiot/pen/BaMydwd?editors=1100
     * Make sure that your mobiel HTML and CSS are perfectly finished and your CSS is well organised before you move on to step 4 or your code will become a mess.
     * To simulate what your web page might look like on a mobile device: 
       1. With the webpage open in Chrome, right-click > Inspect. 
