@@ -2,7 +2,7 @@
 
 ## Objectives
 
-You will code a webpage made up of a series of different content blocks that you can choose from some provided layouts. First you will code the layout for mobile screens, then you will add code in the media queries to modify the layout for tablet and desktop screen sizes. One of the blocks of content is already coded, this will provide you with practice working with someone else's code and it also provides you with an example of how to organize your code effectively.
+You will code a webpage made up of a series of different content blocks that you can choose from some provided layouts. First you will code the layout for mobile screens, then you will add code in the media queries to modify the layout for tablet and desktop screen sizes. One of the blocks of content is already coded, this will provide you with practice working with someone else's code and an example of how to organize your code effectively.
 
 ## Instructions
 
@@ -21,7 +21,7 @@ The hero section has already been coded for you. There are two layouts for each 
 ### 2. Code the content blocks for mobile
 
 1. In VS Code, carefully read the code that was provided in index.html and style.css. In the browser, use the developer tools to understand how the styles were used.
-2. Code each one of your chosen content blocks for mobile.
+2. Code each one of your chosen content blocks for mobile:
    - Your HTML should be clean and semantics.
    - The CSS should be well organised and make the most of the styles that already exist. Feel free to edit the existing CSS.
    - Mobile layouts usually follow the normal flow of content so you may not need flexbox for anything but the header. Use padding and margin to control the vertical space in the layout.
